@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-    background-color: #333;
+    background-color: #211e1e;
     padding: 10px;
 }
 
@@ -22,7 +22,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(209, 203, 203);
     text-decoration: none;
     padding: 14px 20px;
 }
@@ -30,5 +30,5 @@ nav ul li a {
 
 
 nav ul li a:hover {
-    background-color: #575757;
+    background-color: #716969;
 }
